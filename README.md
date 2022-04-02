@@ -1,1 +1,1 @@
-https://skuperdyi.github.io/rsschool-cv/cvgi
+https://skuperdyi.github.io/rsschool-cv/cv
