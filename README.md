@@ -1,1 +1,1 @@
-https://skuperdyi..github.io/rsschool-cv/
+https://skuperdyi.github.io/rsschool-cv/
