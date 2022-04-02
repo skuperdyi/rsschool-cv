@@ -23,7 +23,8 @@ scout organization.
 * **AutoCAD**
 * **Compas**
 ## Code Example ##
-```function sum(a, b) {
+```
+function sum(a, b) {
   return a + b;
 }
 
