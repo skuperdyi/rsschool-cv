@@ -32,9 +32,9 @@ let result = sum(1, 2);
 alert( result );
 ```
 ## Experience ##
-* **SOFTFORM**:  Furniture Engineer-Designer, 
+* **SOFTFORM**: Furniture Engineer-Designer, 
 **2017-2019**
-* **HH Global**:  Furniture Engineer-Designer, 
+* **HH Global**: Furniture Engineer-Designer, 
 **2019-2022**
 ## Education ##
 * **Belarusian State Technological University**
